@@ -3,36 +3,36 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost/</loc>
+    <loc>aventinus.xyz/</loc>
     <lastmod>2021-02-11T12:27:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/posts/my-first-post/</loc>
+    <loc>aventinus.xyz/posts/my-first-post/</loc>
     <lastmod>2021-02-11T12:27:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/posts/</loc>
+    <loc>aventinus.xyz/posts/</loc>
     <lastmod>2021-02-11T12:27:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/tags/</loc>
+    <loc>aventinus.xyz/tags/</loc>
     <lastmod>2021-02-11T12:27:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/tags/untagged/</loc>
+    <loc>aventinus.xyz/tags/untagged/</loc>
     <lastmod>2021-02-11T12:27:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>localhost/blog/</loc>
+    <loc>aventinus.xyz/blog/</loc>
   </url>
   
   <url>
-    <loc>localhost/series/</loc>
+    <loc>aventinus.xyz/series/</loc>
   </url>
   
 </urlset>
