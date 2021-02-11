@@ -1,5 +1,5 @@
 baseurl      = ""
-title        = "Aventinus"
+title        = ""
 languageCode = "en-us"
 theme        = "hello-friend-ng"
 paginate     = 10
@@ -20,19 +20,19 @@ paginate     = 10
   enableSharingButtons = true
 
   # Metadata mostly used in document's head
-  description = "My new homepage or blog"
-  keywords = "homepage, blog"
+  description = "My personal log"
+  keywords = "video games, books, fantasy, rpgs"
   images = [""]
 
 [taxonomies]
-    category = "blog"
+    category = "blog, reviews"
     tag      = "tags"
     series   = "series"
 
 [languages]
   [languages.en]
     title = "Aventinus"
-    subtitle = "To distinguish the better from the good and the best from the better"
+    subtitle = ""
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
