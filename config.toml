@@ -1,4 +1,4 @@
-baseurl      = "http://aventinus.xyz/"
+baseurl      = "https://amittos.github.io/aventinus"
 title        = "Aventinus"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
