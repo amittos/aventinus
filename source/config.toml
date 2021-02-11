@@ -1,4 +1,4 @@
-baseurl      = "aventinus.xyz"
+baseurl      = ""
 title        = "Aventinus"
 languageCode = "en-us"
 theme        = "hello-friend-ng"
