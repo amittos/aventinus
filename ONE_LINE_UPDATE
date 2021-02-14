@@ -1,0 +1,1 @@
+cd docs && git rm -rf * && cd .. && cd public && git rm -rf * && cd .. && hugo && cp -fR public/. docs && cp CNAME docs && git add * && git commit -m "added new content" && git push
