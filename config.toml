@@ -31,14 +31,14 @@ paginate     = 10
 
 [languages]
   [languages.en]
-    title = "Aventinus"
+    title = ""
     subtitle = ""
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "Aventinus"
+      logoText = ""
       logoHomeLink = "/"
     # or
     #
@@ -47,9 +47,13 @@ paginate     = 10
 
   # And you can even create generic menu
   [[menu.main]]
-    identifier = "reviews"
-    name       = "Reviews"
-    url        = "/reviews"
+    identifier = "video-games"
+    name       = "Video Games"
+    url        = "/video-games"
+  [[menu.main]]
+    identifier = "books"
+    name       = "Books"
+    url        = "/books"
   [[menu.main]]
     identifier = "essays"
     name       = "Essays"
