@@ -10,10 +10,15 @@
             {{ end }}
 
             <h1>{{ .Site.Title }}</h1>
-            {{- with .Site.Params.homeSubtitle }}
+            {{ if .Site.Params.homeSubtitleWithHtml }}
+              {{- with .Site.Params.homeSubtitleWithHtml }}
+                {{. | safeHTML }}
+              {{- end }}
+            {{else}}
+              {{- with .Site.Params.homeSubtitle }}
                 <p>{{.}}</p>
-            {{- end }}
-
+              {{- end }}
+            {{ end }}
             {{- with .Site.Params.social }}
                 <div>
                     {{ partial "social-icons.html" . }}
