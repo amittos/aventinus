@@ -1,5 +1,5 @@
 baseurl      	= ""
-title        	= "Aventinus"
+title        	= ""
 languageCode 	= "en-us"
 theme        	= "hello-friend-ng"
 paginate     	= 10
