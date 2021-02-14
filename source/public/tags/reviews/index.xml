@@ -10,19 +10,19 @@
     <lastBuildDate>Thu, 11 Feb 2021 12:27:27 +0000</lastBuildDate><atom:link href="/tags/reviews/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Review</title>
-      <link>/posts/my-first-review/</link>
+      <link>/reviews/my-first-review/</link>
       <pubDate>Thu, 11 Feb 2021 12:27:27 +0000</pubDate>
       
-      <guid>/posts/my-first-review/</guid>
+      <guid>/reviews/my-first-review/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My Second Review</title>
-      <link>/posts/my-second-review/</link>
+      <link>/reviews/my-second-review/</link>
       <pubDate>Thu, 11 Feb 2021 12:27:27 +0000</pubDate>
       
-      <guid>/posts/my-second-review/</guid>
+      <guid>/reviews/my-second-review/</guid>
       <description></description>
     </item>
     

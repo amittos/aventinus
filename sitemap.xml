@@ -8,27 +8,32 @@
   </url>
   
   <url>
+    <loc>/essays/</loc>
+    <lastmod>2021-02-11T12:27:27+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/tags/essays/</loc>
     <lastmod>2021-02-11T12:27:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/my-first-essay/</loc>
+    <loc>/essays/my-first-essay/</loc>
     <lastmod>2021-02-11T12:27:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/my-first-review/</loc>
+    <loc>/reviews/my-first-review/</loc>
     <lastmod>2021-02-11T12:27:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/my-second-review/</loc>
+    <loc>/reviews/my-second-review/</loc>
     <lastmod>2021-02-11T12:27:27+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/posts/</loc>
+    <loc>/reviews/</loc>
     <lastmod>2021-02-11T12:27:27+00:00</lastmod>
   </url>
   
@@ -43,7 +48,7 @@
   </url>
   
   <url>
-    <loc>/blog/</loc>
+    <loc>/reviews/</loc>
   </url>
   
   <url>
