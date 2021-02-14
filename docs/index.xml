@@ -35,5 +35,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Ranking System</title>
+      <link>/about/ranking-system/</link>
+      <pubDate>Thu, 11 Feb 2021 12:27:27 +0000</pubDate>
+      
+      <guid>/about/ranking-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Is This?</title>
+      <link>/about/what-is-this/</link>
+      <pubDate>Thu, 11 Feb 2021 12:27:27 +0000</pubDate>
+      
+      <guid>/about/what-is-this/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
