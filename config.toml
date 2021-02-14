@@ -50,3 +50,7 @@ paginate     = 10
     identifier = "reviews"
     name       = "Reviews"
     url        = "/reviews"
+  [[menu.main]]
+    identifier = "essays"
+    name       = "Essays"
+    url        = "/essays"
