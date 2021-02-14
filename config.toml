@@ -48,9 +48,9 @@ googleAnalytics = ""
 
   # And you can even create generic menu
   [[menu.main]]
-    identifier = "about"
-    name = "About"
-    url = "/about/"
+    identifier 	= "about"
+    name 		= "About"
+    url 		= "/about"
   [[menu.main]]
     identifier = "video-games"
     name       = "Video Games"
@@ -59,10 +59,6 @@ googleAnalytics = ""
     identifier = "books"
     name       = "Books"
     url        = "/books"
-  [[menu.main]]
-    identifier = "essays"
-    name       = "Essays"
-    url        = "/essays"
   [[menu.main]]
     identifier = "anime"
     name       = "Anime"

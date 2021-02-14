@@ -1,10 +1,10 @@
 ---
-title: "My First Essay"
+title: "My First Anime Review"
 date: 2021-02-11T12:27:27Z
 draft: false
 toc: false
 images:
 tags:
-  - essays
+  - anime
 ---
 
