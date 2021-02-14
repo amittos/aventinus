@@ -14,11 +14,11 @@ googleAnalytics = ""
   # Subtitle for home
   homeSubtitleWithHtml = """
 
-  "Imagination will often carry us to worlds that never were,<br>but without it we go nowhere."<br>– Carl Sagan
+  <i>"Imagination will often carry us to worlds that never were,<br>but without it we go nowhere."</i><br>Carl Sagan
 
   <br><br>
 
-  "It is the struggle itself that is most important.<br>We must strive to be more than we are, Lal.<br>It does not matter that we will never reach our ultimate goal.<br>The effort yields its own rewards."<br>– Lieutenant Commander Data
+  <i>"It is the struggle itself that is most important.<br>We must strive to be more than we are, Lal.<br>It does not matter that we will never reach our ultimate goal.<br>The effort yields its own rewards."</i><br>Lieutenant Commander Data
 
   """
 
