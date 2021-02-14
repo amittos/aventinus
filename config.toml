@@ -33,7 +33,7 @@ googleAnalytics = ""
 [languages]
   [languages.en]
     title = " "
-    subtitle = "a personal log"
+    subtitle = "a personal (b)log"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
