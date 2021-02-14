@@ -12,9 +12,14 @@ googleAnalytics = ""
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitleWithHtml = """'Imagination will often carry us to worlds that never were, but without it we go nowhere.'
+  homeSubtitleWithHtml = """
 
-  – Carl Sagan
+  "Imagination will often carry us to worlds that never were, but without it we go nowhere." – Carl Sagan
+
+  <br><br>
+  
+  "It is the struggle itself that is most important. We must strive to be more than we are, Lal. It does not matter that we will never reach our ultimate goal. The effort yields its own rewards." – Lieutenant Commander Data
+
   """
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
