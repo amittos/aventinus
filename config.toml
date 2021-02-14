@@ -25,10 +25,11 @@ googleAnalytics = ""
   keywords = "video games, books, fantasy, rpgs"
   images = [""]
 
+[author]
+  name = "Aventinus"
+
 [taxonomies]
-    category = "reviews"
-    tag      = "tags"
-    series   = "series"
+    category = "categories"
 
 [languages]
   [languages.en]
@@ -51,15 +52,19 @@ googleAnalytics = ""
     identifier 	= "about"
     name 		= "about"
     url 		= "/about"
+    weight 		= "4"
   [[menu.main]]
     identifier = "video games"
     name       = "video games"
     url        = "/video-games"
+    weight 		= "3"
   [[menu.main]]
     identifier = "books"
     name       = "books"
     url        = "/books"
+    weight 		= "2"
   [[menu.main]]
     identifier = "anime"
     name       = "anime"
     url        = "/anime"
+    weight 		= "1"

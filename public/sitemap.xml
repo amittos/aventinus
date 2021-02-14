@@ -8,17 +8,7 @@
   </url>
   
   <url>
-    <loc>/tags/about/</loc>
-    <lastmod>2021-02-11T12:27:27+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/about/</loc>
-    <lastmod>2021-02-11T12:27:27+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/anime/</loc>
     <lastmod>2021-02-11T12:27:27+00:00</lastmod>
   </url>
   
@@ -29,11 +19,6 @@
   
   <url>
     <loc>/books/</loc>
-    <lastmod>2021-02-11T12:27:27+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/books/</loc>
     <lastmod>2021-02-11T12:27:27+00:00</lastmod>
   </url>
   
@@ -58,17 +43,7 @@
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2021-02-11T12:27:27+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/video-games/</loc>
-    <lastmod>2021-02-11T12:27:27+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/video-games/</loc>
     <lastmod>2021-02-11T12:27:27+00:00</lastmod>
   </url>
   
@@ -78,11 +53,7 @@
   </url>
   
   <url>
-    <loc>/reviews/</loc>
-  </url>
-  
-  <url>
-    <loc>/series/</loc>
+    <loc>/categories/</loc>
   </url>
   
 </urlset>
