@@ -32,8 +32,8 @@ googleAnalytics = ""
 
 [languages]
   [languages.en]
-    title = ""
-    subtitle = "A Personal Log"
+    title = "aventinus"
+    subtitle = "a personal log"
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
     readOtherPosts = "Read other posts"
@@ -49,17 +49,17 @@ googleAnalytics = ""
   # And you can even create generic menu
   [[menu.main]]
     identifier 	= "about"
-    name 		= "About"
+    name 		= "about"
     url 		= "/about"
   [[menu.main]]
-    identifier = "Video Games"
-    name       = "Video Games"
+    identifier = "video games"
+    name       = "video games"
     url        = "/video-games"
   [[menu.main]]
     identifier = "books"
-    name       = "Books"
+    name       = "books"
     url        = "/books"
   [[menu.main]]
     identifier = "anime"
-    name       = "Anime"
+    name       = "anime"
     url        = "/anime"
