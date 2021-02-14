@@ -1,8 +1,9 @@
-baseurl      = ""
-title        = "Aventinus"
-languageCode = "en-us"
-theme        = "hello-friend-ng"
-paginate     = 10
+baseurl      	= ""
+title        	= "Aventinus"
+languageCode 	= "en-us"
+theme        	= "hello-friend-ng"
+paginate     	= 10
+googleAnalytics = ""
 
 [params]
   dateform        = "Jan 2, 2006"
@@ -11,7 +12,7 @@ paginate     = 10
   dateformNumTime = "2006-01-02 15:04"
 
   # Subtitle for home
-  homeSubtitle = '"Imagination will often carry us to worlds that never were, but without it we go nowhere." – Carl Sagan'
+  homeSubtitle = '"Imagination will often carry us to worlds that never were, but without it we go nowhere."<br> – Carl Sagan'
 
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
@@ -46,6 +47,12 @@ paginate     = 10
     # alt = "Your example logo alt text"
 
   # And you can even create generic menu
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    pre = "<i class='fa fa-heart'></i>"
+    url = "/about/"
+    weight = -110
   [[menu.main]]
     identifier = "video-games"
     name       = "Video Games"
