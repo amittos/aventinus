@@ -55,7 +55,7 @@ googleAnalytics = ""
     name 		= "About"
     url 		= "/about"
   [[menu.main]]
-    identifier = "video-games"
+    identifier = "Video Games"
     name       = "Video Games"
     url        = "/video-games"
   [[menu.main]]
