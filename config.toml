@@ -31,7 +31,7 @@ paginate     = 10
 
 [languages]
   [languages.en]
-    title = ""
+    title = "Aventinus"
     subtitle = ""
     keywords = ""
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
@@ -58,3 +58,7 @@ paginate     = 10
     identifier = "essays"
     name       = "Essays"
     url        = "/essays"
+  [[menu.main]]
+    identifier = "anime"
+    name       = "Anime"
+    url        = "/anime"
